@@ -1,6 +1,6 @@
 # semantic-brain-decoding
 
-This repository contains the code to support the "Semantic Brain Decoding: from fMRI to conceptually similar image reconstruction of visual stimuli" paper (https://arxiv.org/abs/2212.06726).
+This repository contains the code to support the "Semantic Brain Decoding" paper.
 
 ![Pipeline](figures/pipeline_knn.png)
 
@@ -32,22 +32,3 @@ To add some quantitative measurements to our work, we measured the Wu-Palmer dis
 ![Human Evaluation](figures/human_evaluation.png)
 
 
-If you liked this work, feel free to cite us using 
-
-@misc{https://doi.org/10.48550/arxiv.2212.06726,
-  doi = {10.48550/ARXIV.2212.06726},
-  
-  url = {https://arxiv.org/abs/2212.06726},
-  
-  author = {Ferrante, Matteo and Boccato, Tommaso and Toschi, Nicola},
-  
-  keywords = {Computer Vision and Pattern Recognition (cs.CV), Neurons and Cognition (q-bio.NC), FOS: Computer and information sciences, FOS: Computer and information sciences, FOS: Biological sciences, FOS: Biological sciences},
-  
-  title = {Semantic Brain Decoding: from fMRI to conceptually similar image reconstruction of visual stimuli},
-  
-  publisher = {arXiv},
-  
-  year = {2022},
-  
-  copyright = {Creative Commons Attribution 4.0 International}
-}
